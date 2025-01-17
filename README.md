@@ -13,28 +13,24 @@ Admin Panel: Add, edit, delete, and manage events easily.
 Interactive UI: Responsive design with dynamic content rendering.
 Fixed Navigation Bar: Quick access to key functionalities.
 ⚙️ Setup Instructions
-Clone the Repository:
+   Clone the Repository:
+      git clone https://github.com/your-group/event-management-system  
+   Navigate into the Project Directory:
+      cd event-management-system  
+   Create a Virtual Environment:
+      python -m venv venv  
+  Activate the Virtual Environment:
+      # For Windows  
+         .\venv\Scripts\activate    
+      # For Linux/macOS  
+         source venv/bin/activate  
+  Install Dependencies:
+    pip install -r requirements.txt  
+    Run the Application:
+    manage.py runserver
 
-git clone https://github.com/your-group/event-management-system  
-Navigate into the Project Directory:
-
-cd event-management-system  
-Create a Virtual Environment:
-
-python -m venv venv  
-Activate the Virtual Environment:
-
-# For Windows  
-.\venv\Scripts\activate  
-# For Linux/macOS  
-source venv/bin/activate  
-Install Dependencies:
-
-pip install -r requirements.txt  
-Run the Application:
-
-flask run  
 🌟 Future Enhancements
+
 Add payment gateway integration.
 Implement email/SMS notifications for bookings.
 Develop a mobile app for better accessibility.
