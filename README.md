@@ -1,6 +1,6 @@
 # **Event Management System**  
 
-A simple and user-friendly Flask-based web application for managing and booking events.  
+A simple and user-friendly Django based web application for managing and booking events.  
 
 ---
 
