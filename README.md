@@ -23,12 +23,12 @@ This project developed under infosys springboard internship and it  simplifies e
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/your-group/event-management-system  
+   git clone https://github.com/111622201047/EventManagement.git  
    ```  
 
 2. **Navigate into the Project Directory:**  
    ```bash  
-   cd event-management-system  
+   cd EventManagement  
    ```  
 
 3. **Create a Virtual Environment:**  
@@ -51,7 +51,7 @@ This project developed under infosys springboard internship and it  simplifies e
 
 6. **Run the Application:**  
    ```bash  
-   python manage.runserver 
+   manage.py runserver 
    ```  
 
 ---
